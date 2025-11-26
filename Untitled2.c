@@ -11,3 +11,5 @@ int findMax(int *arr, int n) {
     return max;
 }
 int main
+
+k;k;ko;kop
