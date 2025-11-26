@@ -17,10 +17,3 @@ int main() {
     scanf("%d", &n);
     int arr[n];
     for (i = 0; i < n; i++) {
-        printf("Nhap phan tu thu %d: ", i + 1);
-        scanf("%d", (arr + i));
-    }
-    int maxVal = findMax(arr, n);
-    printf("Phan tu lon nhat la: %d\n", maxVal);
-    return 0;
-}
