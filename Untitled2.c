@@ -10,10 +10,4 @@ int findMax(int *arr, int n) {
     }
     return max;
 }
-int main() {
-    int n;
-    int i;
-    printf("Nhap so luong phan tu n: ");
-    scanf("%d", &n);
-    int arr[n];
-    for (i = 0; i < n; i++) {
+int main
